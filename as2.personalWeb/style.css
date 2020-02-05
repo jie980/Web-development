@@ -1,0 +1,119 @@
+.body{
+  background-color:rgba(61, 92, 29, 0.56); 
+  margin-left:100px;
+  font-family: American Typewriter;
+}
+.header{
+  padding-inline-start: 20px;
+  font-weight: bold;
+  margin-top: 30px;
+  background-color: #f6f2e6;
+  width: 1200px;
+  border: 2px dashed #000;
+
+}
+.pic{
+  position: relative;
+  top: 10px;
+  width: 380px;
+  height: 260px;
+  border: 2px solid #000;
+}
+.intro {
+  line-height: 26px;
+  background-color: #f6f2e6;
+  height: 220px;
+  width: 350px;
+  float: left;
+  padding: 15px; 
+  border: 2px dashed #000;
+  margin-top: 10px;
+}
+.biog {
+  width: 450px;
+  margin-left: 10px;
+  margin-top: 10px;
+  font-family: fantasy;
+  background-color: #f6f2e6;
+  padding: 15px;
+  border: 2px dashed #000;
+  position: absolute;
+  left: 485px;
+}
+.other { 
+  background-color: #f6f2e6;
+  width: 330px;
+  height: 500px;
+  position: absolute;
+  top: 115px;
+  left: 990px;
+  right: 22;
+  border: 2px dashed;
+}
+.tableSet{
+  border: 2px Solid #000;
+  padding: 10px;
+  position: relative;
+  left: 40px;
+  top: 20px;
+  width: 250px;
+}
+.form {
+  position: relative;
+  top: 50px;
+  left: 40px;
+  padding: 10px;
+  line-height: 30px;
+  border: 2px solid;
+  width: 227px;
+}
+.survey{
+  position: relative;
+  left: 60px;
+  font-weight: bold;
+  font-size: 25px;
+}
+.clear {
+  clear:both;
+}
+.idea {
+  line-height:26px;
+  background-color: #f6f2e6;
+  height: 300px;
+  width: 450px;
+  position: absolute;
+  left: 495px;
+  top: 490px;
+  padding: 15px;
+  border: 2px dashed #000;
+}
+.each:link{
+  color:black;
+  text-decoration: none;
+}
+.each:visited{
+  color:black;
+}
+.each:hover{
+  color:grey;
+}
+.link2:link{
+  color:black;
+}
+.link2:visited{
+  color:black;
+}
+.link2:hover{
+  color:grey;
+}
+
+footer.foot{
+  height: 50px;
+  width: 110%;
+  background-color: grey;
+  padding-top: 20px;
+  padding-left: 10px;
+  position: relative;
+  left: -100px;
+  top: 300px;
+}
