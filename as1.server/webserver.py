@@ -102,7 +102,7 @@ Content-Type: text/html; charset=UTF-8
             client_connection.sendall(http_response)
     except:
         http_response = """\
-HTTP/1.1 200 OK
+HTTP/1.1 404 Page Not Found
 Content-Type: text/html; charset=UTF-8
 
 <html>
